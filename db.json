@@ -49,12 +49,12 @@
           "id": "2",
           "name": "OperationalPriority",
           "unique": "true",
-          "unique2": "true",
-          "unique3": "true",
-          "unique4": "true",
-          "unique5": "true",
-          "unique6": "true",
-          "options": ["option 01", "options 02", "options 03"]
+          "options": [
+            "option 01",
+            "options 02",
+            { "model": "teste" },
+            ["teste 02", "teste 03"]
+          ]
         },
         {
           "id": "3",
