@@ -41,25 +41,25 @@
       "oracleField": [
         {
           "id": "1",
-          "name": "Name",
+          "name": "Name 01",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         },
         {
           "id": "2",
-          "name": "OperationalPriority",
+          "name": "Nome 02",
           "unique": "true",
           "options": ["option 01", "options 02", "options 03"]
         },
         {
           "id": "3",
-          "name": "unique",
+          "name": "Nome 03",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         },
         {
           "id": "4",
-          "name": "Name",
+          "name": "Name 04",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         }
@@ -69,19 +69,19 @@
       "mongoField": [
         {
           "id": "1",
-          "name": "Name",
+          "name": "Name 01",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         },
         {
           "id": "2",
-          "name": "OperationalPriority",
+          "name": "Nome 02",
           "unique": "false",
           "options": ["option 01", "options 02", "options 03"]
         },
         {
           "id": "3",
-          "name": "Name",
+          "name": "Name 03",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         }
