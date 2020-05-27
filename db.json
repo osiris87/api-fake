@@ -41,7 +41,7 @@
       "oracleField": [
         {
           "id": "1",
-          "name": "Name 01",
+          "name": "Nome 01",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         },
@@ -59,7 +59,7 @@
         },
         {
           "id": "4",
-          "name": "Name 04",
+          "name": "Nome 04",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         }
@@ -69,7 +69,7 @@
       "mongoField": [
         {
           "id": "1",
-          "name": "Name 01",
+          "name": "Nome 01",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         },
@@ -81,7 +81,7 @@
         },
         {
           "id": "3",
-          "name": "Name 03",
+          "name": "Nome 03",
           "uniqueRef": { "model": "fdfdfd", "field": "name" },
           "options": ["option 01", "options 02"]
         }
