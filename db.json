@@ -76,7 +76,7 @@
         {
           "id": "2",
           "name": "OperationalPriority",
-          "unique": "true",
+          "unique": "false",
           "options": ["option 01", "options 02", "options 03"]
         },
         {
