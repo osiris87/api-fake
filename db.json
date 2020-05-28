@@ -42,7 +42,7 @@
         {
           "id": "1",
           "name": "Nome 01",
-          "uniqueRef": { "model": "fdfdfd", "field": "name" },
+          "uniqueRef": { "model": "abcdefg", "field": "name" },
           "options": ["option 01", "options 02"]
         },
         {
