@@ -49,6 +49,7 @@
           "id": "2",
           "name": "Nome 02",
           "unique": "true",
+          "novo": "teste",
           "options": ["option 01", "options 02", "options 03"]
         },
         {
